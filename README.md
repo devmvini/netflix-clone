@@ -1,2 +1,2 @@
-# netflix-clone
-Clone da interface do famoso site de streaming Netflix 
+# Clone Interface Netflix
+Clone da interface do famoso site de streaming Netflix
