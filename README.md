@@ -1,5 +1,5 @@
 # Clone Interface Netflix
-Clone da interface do famoso site de streaming Netflix
+Clone da interface do famoso site de streaming Netflix <br>
 Confira a página do projeto <a href="https://devmvini.github.io/netflix-clone/">aqui!</a>
 
 # Tecnologias
